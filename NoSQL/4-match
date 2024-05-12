@@ -1,0 +1,2 @@
+// a script that shows how to list all documents based on a certain attribute in a collection
+db.school.find({name: "Holberton school"})

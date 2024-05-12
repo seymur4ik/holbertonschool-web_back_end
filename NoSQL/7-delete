@@ -1,0 +1,2 @@
+// a script that shows how to delete all documents with a certain attribute in a collection
+db.school.deleteMany({name: "Holberton school"})
