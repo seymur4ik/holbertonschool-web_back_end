@@ -1,0 +1,1 @@
+README FOR ES6 classes
